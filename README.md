@@ -10,8 +10,8 @@ This project implements an in-memory key-value database with transaction support
 
 ## How to Run
 1. Install Python 3 on your computer.
-2. Save the `db.py` file to your local machine.
-3. Open a terminal, navigate to the folder containing `db.py`, and run:
+2. Save the `db.py` file.
+3. Open a terminal, navigate to the folder, and run:
    ```bash
    python3 db.py
 
